@@ -1,0 +1,70 @@
+h1,h2,p,div{
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  width: 80%;
+  margin: 50px 5% 0 5%;
+  padding: 0 5%;
+  background-color: #fff;
+  border: 10px solid #aaa;
+}
+
+h1{
+  text-align: center;
+  padding: 10px 0 10px 0;
+  color: #f00;
+  opacity: 1;
+  margin: 0 0;
+}
+
+.header-p{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  margin: 10px 0 0 0;
+}
+
+
+p{
+  padding: 25px 0;
+}
+
+
+a{
+  color: #336699;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #cc0000;
+}
+
+a:active{
+  color:#aaa;
+}
+
+.sub-p{
+  text-align: center;
+}
+
+.btn{
+  text-align: center;
+  background-color: rgba(0, 230, 230, 0.6);
+}
+
+.btn:hover{
+  background-color: rgba(0, 255, 255, 1.0);
+}
+
+
+p{
+  padding: auto;
+}
+
+body{
+  background-color: #ffdead;
+}
